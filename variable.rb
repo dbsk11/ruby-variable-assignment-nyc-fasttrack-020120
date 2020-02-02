@@ -7,6 +7,3 @@ end
 
 my_name = Jessica
 puts my_name
-
-my_favs = ["pizza", "pasta", "fries"]
-new_favs = my_favs.pop
