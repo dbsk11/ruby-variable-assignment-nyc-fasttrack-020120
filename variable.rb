@@ -5,7 +5,5 @@ def greeting
   puts "Hello World"
 end
 
-my_name = Jessica
-def my_name
-  puts my_name
-end
+my_name = "Jessica"
+puts my_name
