@@ -4,3 +4,6 @@ greeting = "Hello World"
 def greeting
   puts "Hello World"
 end
+
+my_favs = ["pizza", "pasta", "fries"]
+new_favs = my_favs.pop
