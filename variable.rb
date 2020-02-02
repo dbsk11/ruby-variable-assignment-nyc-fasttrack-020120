@@ -6,4 +6,6 @@ def greeting
 end
 
 my_name = Jessica
-puts my_name
+def my_name
+  puts my_name
+end
