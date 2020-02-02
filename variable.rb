@@ -4,3 +4,6 @@ greeting = "Hello World"
 def greeting
   puts "Hello World"
 end
+
+my_name = "Jessica"
+puts my_name
